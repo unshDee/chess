@@ -1,4 +1,4 @@
-# chess
+# chess ♟
 
 **A 2 player chess game made using:**
 
