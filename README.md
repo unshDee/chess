@@ -15,7 +15,7 @@
 - **Special Moves**
   - Castling - Kingside and Queenside
   ![Castling](assets/readme/castling.png)
-  - En Passant
+  - En Passant  
   ![En Passant](assets/readme/en-passant.png)
   - Pawn Promotion - Promotion based on user's choice
   ![Promotion](assets/readme/promotion.png)
