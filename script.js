@@ -18,7 +18,7 @@ const fenValues = {
 };
 
 // initializing chess engine
-const chess = new Chess(fenValues.promotion);
+const chess = new Chess();
 
 // function to create a new game after previous game finishes
 function newGame(chess, board) {
