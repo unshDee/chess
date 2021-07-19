@@ -26,3 +26,5 @@
   - ```chessData.turn```
     - 1 : white
     - 2 : black
+
+Try it here: https://unshdee.github.io/chess/
