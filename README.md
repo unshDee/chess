@@ -14,8 +14,11 @@
   - Threefold Repetition
 - **Special Moves**
   - Castling - Kingside and Queenside
+  ![Castling](assets/readme/castling.png)
   - En Passant
+  ![En Passant](assets/readme/en-passant.png)
   - Pawn Promotion - Promotion based on user's choice
+  ![Promotion](assets/readme/promotion.png)
 - **Game data can be retrieved using _chessData_ object in console**
   - ```chessData.FEN``` : current board configuration in FEN
   - ```chessData.PGN``` : last move made by player in PGN
@@ -27,4 +30,4 @@
     - 1 : white
     - 2 : black
 
-Try it here: https://unshdee.github.io/chess/
+Try it here: [https://unshdee.github.io/chess/](https://unshdee.github.io/chess/)
